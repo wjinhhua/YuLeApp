@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">娱乐App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="loadingview_bt_error">网络设置</string>
+    <string name="loading_tv_loading">火箭加速中</string>
+
+</resources>

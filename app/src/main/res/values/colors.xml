@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#dc5705</color>
+    <color name="colorPrimaryDark">#9f5730</color>
+    <color name="colorAccent">#09b306</color>
+    <color name="colorWhite">#f2f0ed</color>
+    <color name="colorBlack">#f7000000</color>
+    <color name="colorgray">#f76e6868</color>
+    <color name="primary_light">#0cccbb</color>
+    <color name="primary_White">#e6eceb</color>
+    <color name="color_recyclerview_press">#c25b0c</color>
+    <color name="color_recyclerview_normal">#FCFCFC</color>
+</resources>
